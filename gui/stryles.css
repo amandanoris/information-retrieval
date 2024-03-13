@@ -1,0 +1,15 @@
+st.markdown("""
+<style>
+    div.stTextInput input {
+        background-color: #add8e6;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+    <style>
+        .stTitle {
+            white-space: nowrap;
+        }
+    </style>
+    """, unsafe_allow_html=True)

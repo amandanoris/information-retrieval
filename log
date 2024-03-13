@@ -1,0 +1,351 @@
+Cargando corpus de data/boolean_corpus.json.gz
+Cargando vocabulario de data/vocabulary.json.gz
+Cargando corpus de data/vector_corpus.json.gz
+Cargando vectorizer de data/vectorizer.json.gz
+testing query PLAIN-2, ok! ok! ok!, 
+testing query PLAIN-12, ok! ok! missed!, query: Exploiting Autophagy to Live Longer
+testing query PLAIN-23, ok! ok! ok!, 
+testing query PLAIN-33, ok! ok! ok!, 
+testing query PLAIN-44, ok! ok! ok!, 
+testing query PLAIN-56, ok! ok! ok!, 
+testing query PLAIN-68, ok! ok! ok!, 
+testing query PLAIN-78, ok! ok! ok!, 
+testing query PLAIN-91, ok! ok! ok!, 
+testing query PLAIN-102, ok! ok! ok!, 
+testing query PLAIN-112, ok! ok! ok!, 
+testing query PLAIN-123, ok! ok! missed!, query: How Citrus Might Help Keep Your Hands Warm
+testing query PLAIN-133, ok! ok! missed!, query: Starving Tumors of Their Blood Supply
+testing query PLAIN-143, ok! ok! ok!, 
+testing query PLAIN-153, ok! ok! ok!, 
+testing query PLAIN-165, ok! ok! ok!, 
+testing query PLAIN-175, ok! ok! missed!, query: Diet and Cellulite
+testing query PLAIN-186, ok! ok! ok!, 
+testing query PLAIN-196, ok! ok! ok!, 
+testing query PLAIN-207, ok! ok! ok!, 
+testing query PLAIN-217, ok! ok! missed!, query: Plant-Based Diets for Psoriasis
+testing query PLAIN-227, ok! ok! missed!, query: Increasing Muscle Strength with Fenugreek
+testing query PLAIN-238, ok! ok! missed!, query: How Chemically Contaminated Are We?
+testing query PLAIN-248, ok! ok! ok!, 
+testing query PLAIN-259, ok! ok! missed!, query: Optimal Phytosterol Dose and Source
+testing query PLAIN-270, ok! ok! ok!, 
+testing query PLAIN-280, ok! ok! ok!, 
+testing query PLAIN-291, ok! ok! ok!, 
+testing query PLAIN-307, ok! ok! ok!, 
+testing query PLAIN-320, ok! ok! ok!, 
+testing query PLAIN-332, ok! ok! ok!, 
+testing query PLAIN-344, ok! ok! ok!, 
+testing query PLAIN-358, ok! ok! missed!, query: Didn't another study show carnitine was good for the heart?
+testing query PLAIN-371, ok! ok! missed!, query: Any update on the scary in vitro avocado data?
+testing query PLAIN-383, ok! ok! missed!, query: What do you think of Dr. Jenkins' take on paleolithic diets?
+testing query PLAIN-395, missed! missed! missed!, query: What about pepper plus turmeric in V8 juice?
+testing query PLAIN-407, ok! ok! missed!, query: Is annatto food coloring safe?
+testing query PLAIN-418, ok! ok! ok!, 
+testing query PLAIN-430, ok! ok! ok!, 
+testing query PLAIN-441, ok! ok! ok!, 
+testing query PLAIN-457, ok! ok! missed!, query: How can you believe in any scientific study?
+testing query PLAIN-468, ok! ok! ok!, 
+testing query PLAIN-478, missed! missed! missed!, query: accidents
+testing query PLAIN-488, ok! ok! ok!, 
+testing query PLAIN-499, ok! missed! missed!, query: African-American
+testing query PLAIN-510, missed! missed! missed!, query: airport scanners
+testing query PLAIN-520, missed! missed! missed!, query: Alli
+testing query PLAIN-531, ok! ok! ok!, 
+testing query PLAIN-541, ok! ok! ok!, 
+testing query PLAIN-551, missed! missed! missed!, query: amnesia
+testing query PLAIN-561, ok! ok! ok!, 
+testing query PLAIN-571, ok! ok! ok!, 
+testing query PLAIN-583, missed! missed! missed!, query: antinutrients
+testing query PLAIN-593, ok! ok! ok!, 
+testing query PLAIN-603, missed! missed! missed!, query: Arkansas
+testing query PLAIN-613, ok! ok! missed!, query: ascorbic acid
+testing query PLAIN-623, ok! ok! ok!, 
+testing query PLAIN-634, ok! ok! ok!, 
+testing query PLAIN-645, missed! missed! missed!, query: bagels
+testing query PLAIN-660, ok! ok! ok!, 
+testing query PLAIN-671, ok! ok! ok!, 
+testing query PLAIN-681, missed! ok! ok!, query: betel nuts
+testing query PLAIN-691, ok! ok! missed!, query: bioavailability
+testing query PLAIN-701, ok! ok! missed!, query: black raspberries
+testing query PLAIN-711, ok! ok! ok!, 
+testing query PLAIN-721, ok! ok! ok!, 
+testing query PLAIN-731, ok! ok! ok!, 
+testing query PLAIN-741, ok! ok! missed!, query: BPH
+testing query PLAIN-751, missed! missed! missed!, query: BRCA genes
+testing query PLAIN-761, ok! ok! missed!, query: breast pain
+testing query PLAIN-771, ok! ok! ok!, 
+testing query PLAIN-782, missed! missed! missed!, query: Bush administration
+testing query PLAIN-792, ok! ok! ok!, 
+testing query PLAIN-806, ok! ok! ok!, 
+testing query PLAIN-817, missed! missed! missed!, query: canker sores
+testing query PLAIN-827, ok! ok! ok!, 
+testing query PLAIN-838, ok! ok! ok!, 
+testing query PLAIN-850, ok! ok! ok!, 
+testing query PLAIN-872, missed! missed! missed!, query: chanterelle mushrooms
+testing query PLAIN-882, ok! ok! ok!, 
+testing query PLAIN-892, ok! ok! ok!, 
+testing query PLAIN-902, ok! ok! ok!, 
+testing query PLAIN-913, ok! ok! ok!, 
+testing query PLAIN-924, ok! ok! ok!, 
+testing query PLAIN-934, ok! ok! ok!, 
+testing query PLAIN-946, ok! ok! ok!, 
+testing query PLAIN-956, ok! ok! ok!, 
+testing query PLAIN-966, ok! ok! missed!, query: cortisol
+testing query PLAIN-977, ok! ok! missed!, query: crib death
+testing query PLAIN-987, ok! ok! ok!, 
+testing query PLAIN-997, missed! missed! missed!, query: Czechoslovakia
+testing query PLAIN-1008, missed! missed! missed!, query: deafness
+testing query PLAIN-1018, ok! ok! ok!, 
+testing query PLAIN-1028, ok! ok! missed!, query: dietary scoring
+testing query PLAIN-1039, ok! ok! ok!, 
+testing query PLAIN-1050, ok! missed! missed!, query: Dr. Dean Ornish
+testing query PLAIN-1066, missed! missed! missed!, query: Dr. Walter Willett
+testing query PLAIN-1088, ok! ok! ok!, 
+testing query PLAIN-1098, missed! missed! missed!, query: eggnog
+testing query PLAIN-1109, ok! ok! ok!, 
+testing query PLAIN-1119, missed! missed! missed!, query: energy drinks
+testing query PLAIN-1130, ok! ok! ok!, 
+testing query PLAIN-1141, ok! ok! ok!, 
+testing query PLAIN-1151, ok! ok! missed!, query: factory farming practices
+testing query PLAIN-1161, missed! missed! missed!, query: fava beans
+testing query PLAIN-1172, ok! ok! ok!, 
+testing query PLAIN-1183, ok! ok! ok!, 
+testing query PLAIN-1193, ok! ok! ok!, 
+testing query PLAIN-1203, ok! ok! ok!, 
+testing query PLAIN-1214, missed! missed! missed!, query: Fosamax
+testing query PLAIN-1225, ok! ok! ok!, 
+testing query PLAIN-1236, ok! ok! ok!, 
+testing query PLAIN-1249, missed! missed! missed!, query: genetic manipulation
+testing query PLAIN-1262, ok! ok! ok!, 
+testing query PLAIN-1275, ok! ok! ok!, 
+testing query PLAIN-1288, ok! ok! ok!, 
+testing query PLAIN-1299, ok! ok! ok!, 
+testing query PLAIN-1309, missed! missed! missed!, query: halibut
+testing query PLAIN-1320, ok! ok! missed!, query: Harvard Physicians’ Study II
+testing query PLAIN-1331, missed! missed! missed!, query: hearing
+testing query PLAIN-1342, ok! ok! ok!, 
+testing query PLAIN-1353, missed! missed! missed!, query: hernia
+testing query PLAIN-1363, ok! ok! ok!, 
+testing query PLAIN-1374, ok! ok! missed!, query: hormonal dysfunction
+testing query PLAIN-1387, ok! ok! ok!, 
+testing query PLAIN-1398, ok! missed! ok!, query: IGF-1
+testing query PLAIN-1409, ok! ok! missed!, query: industrial toxins
+testing query PLAIN-1419, ok! ok! ok!, 
+testing query PLAIN-1429, ok! ok! missed!, query: Iowa Women’s Health Study
+testing query PLAIN-1441, ok! ok! ok!, 
+testing query PLAIN-1453, ok! ok! ok!, 
+testing query PLAIN-1463, ok! ok! ok!, 
+testing query PLAIN-1473, ok! ok! ok!, 
+testing query PLAIN-1485, missed! missed! missed!, query: lard
+testing query PLAIN-1496, missed! missed! missed!, query: leeks
+testing query PLAIN-1506, ok! ok! ok!, 
+testing query PLAIN-1516, missed! missed! missed!, query: Lindane
+testing query PLAIN-1527, ok! ok! ok!, 
+testing query PLAIN-1537, ok! ok! ok!, 
+testing query PLAIN-1547, ok! ok! missed!, query: lyme disease
+testing query PLAIN-1557, ok! ok! ok!, 
+testing query PLAIN-1568, ok! ok! ok!, 
+testing query PLAIN-1579, ok! ok! missed!, query: mastitis
+testing query PLAIN-1590, ok! ok! ok!, 
+testing query PLAIN-1601, ok! ok! ok!, 
+testing query PLAIN-1611, missed! missed! missed!, query: mesquite
+testing query PLAIN-1621, missed! missed! missed!, query: Mevacor
+testing query PLAIN-1635, ok! ok! ok!, 
+testing query PLAIN-1645, ok! ok! ok!, 
+testing query PLAIN-1656, ok! ok! ok!, 
+testing query PLAIN-1667, ok! ok! ok!, 
+testing query PLAIN-1679, missed! missed! missed!, query: myelopathy
+testing query PLAIN-1690, ok! ok! missed!, query: National Academy of Sciences
+testing query PLAIN-1700, missed! missed! missed!, query: Native Americans
+testing query PLAIN-1710, ok! ok! ok!, 
+testing query PLAIN-1721, ok! ok! ok!, 
+testing query PLAIN-1731, ok! ok! ok!, 
+testing query PLAIN-1741, ok! ok! ok!, 
+testing query PLAIN-1752, missed! missed! missed!, query: okra
+testing query PLAIN-1762, ok! ok! ok!, 
+testing query PLAIN-1772, ok! ok! ok!, 
+testing query PLAIN-1784, missed! missed! missed!, query: oxen meat
+testing query PLAIN-1794, ok! ok! ok!, 
+testing query PLAIN-1805, ok! ok! ok!, 
+testing query PLAIN-1817, ok! ok! ok!, 
+testing query PLAIN-1827, missed! missed! missed!, query: Peoria
+testing query PLAIN-1837, ok! ok! ok!, 
+testing query PLAIN-1847, ok! ok! missed!, query: philippines
+testing query PLAIN-1857, ok! ok! ok!, 
+testing query PLAIN-1867, ok! ok! ok!, 
+testing query PLAIN-1877, ok! ok! missed!, query: plant-based diet
+testing query PLAIN-1887, ok! ok! missed!, query: poisonous plants
+testing query PLAIN-1897, missed! missed! ok!, query: polypropylene plastic
+testing query PLAIN-1909, ok! ok! ok!, 
+testing query PLAIN-1919, ok! ok! ok!, 
+testing query PLAIN-1929, ok! ok! ok!, 
+testing query PLAIN-1940, ok! ok! ok!, 
+testing query PLAIN-1950, ok! ok! ok!, 
+testing query PLAIN-1962, missed! missed! missed!, query: pumpkin
+testing query PLAIN-1972, missed! missed! missed!, query: quinine
+testing query PLAIN-1983, ok! ok! ok!, 
+testing query PLAIN-1995, ok! ok! ok!, 
+testing query PLAIN-2009, ok! ok! ok!, 
+testing query PLAIN-2019, missed! missed! missed!, query: rickets
+testing query PLAIN-2030, ok! ok! ok!, 
+testing query PLAIN-2040, ok! ok! ok!, 
+testing query PLAIN-2051, ok! ok! ok!, 
+testing query PLAIN-2061, ok! ok! ok!, 
+testing query PLAIN-2071, ok! ok! ok!, 
+testing query PLAIN-2081, ok! ok! missed!, query: shelf life
+testing query PLAIN-2092, ok! ok! ok!, 
+testing query PLAIN-2102, ok! ok! ok!, 
+testing query PLAIN-2113, missed! missed! missed!, query: soil health
+testing query PLAIN-2124, ok! ok! ok!, 
+testing query PLAIN-2134, missed! missed! missed!, query: Splenda
+testing query PLAIN-2145, ok! ok! missed!, query: St. John's wort
+testing query PLAIN-2156, ok! ok! ok!, 
+testing query PLAIN-2167, missed! missed! missed!, query: subsidies
+testing query PLAIN-2177, ok! ok! missed!, query: sulfur
+testing query PLAIN-2187, ok! ok! ok!, 
+testing query PLAIN-2197, ok! ok! ok!, 
+testing query PLAIN-2209, missed! missed! missed!, query: taro
+testing query PLAIN-2220, ok! ok! ok!, 
+testing query PLAIN-2230, missed! missed! missed!, query: thiamine
+testing query PLAIN-2240, ok! ok! ok!, 
+testing query PLAIN-2250, missed! missed! missed!, query: tongue worm
+testing query PLAIN-2261, ok! ok! ok!, 
+testing query PLAIN-2271, missed! missed! missed!, query: Tufts
+testing query PLAIN-2281, missed! missed! missed!, query: turnips
+testing query PLAIN-2291, ok! ok! ok!, 
+testing query PLAIN-2301, ok! ok! missed!, query: uterine health
+testing query PLAIN-2311, missed! missed! ok!, query: veal
+testing query PLAIN-2321, missed! missed! missed!, query: veggie chicken
+testing query PLAIN-2332, ok! ok! ok!, 
+testing query PLAIN-2343, missed! missed! missed!, query: vitamin K
+testing query PLAIN-2354, ok! ok! ok!, 
+testing query PLAIN-2364, missed! missed! missed!, query: weight gain
+testing query PLAIN-2375, missed! missed! missed!, query: whiting
+testing query PLAIN-2386, missed! missed! missed!, query: worms
+testing query PLAIN-2396, missed! missed! missed!, query: Yale
+testing query PLAIN-2408, missed! missed! missed!, query: Zoloft
+testing query PLAIN-2430, ok! ok! ok!, 
+testing query PLAIN-2440, ok! ok! missed!, query: More Than an Apple a Day: Combating Common Diseases
+testing query PLAIN-2450, ok! ok! ok!, 
+testing query PLAIN-2460, ok! ok! ok!, 
+testing query PLAIN-2470, ok! ok! ok!, 
+testing query PLAIN-2480, ok! ok! ok!, 
+testing query PLAIN-2490, ok! ok! ok!, 
+testing query PLAIN-2500, ok! ok! ok!, 
+testing query PLAIN-2510, ok! ok! ok!, 
+testing query PLAIN-2520, ok! ok! ok!, 
+testing query PLAIN-2530, ok! ok! ok!, 
+testing query PLAIN-2540, ok! ok! ok!, 
+testing query PLAIN-2550, ok! ok! ok!, 
+testing query PLAIN-2560, ok! ok! ok!, 
+testing query PLAIN-2570, ok! ok! missed!, query: Diabetics Should Take Their Pulses
+testing query PLAIN-2580, ok! ok! ok!, 
+testing query PLAIN-2590, ok! ok! ok!, 
+testing query PLAIN-2600, ok! ok! ok!, 
+testing query PLAIN-2610, ok! ok! ok!, 
+testing query PLAIN-2620, ok! ok! ok!, 
+testing query PLAIN-2630, ok! ok! ok!, 
+testing query PLAIN-2640, ok! ok! ok!, 
+testing query PLAIN-2650, ok! ok! ok!, 
+testing query PLAIN-2660, ok! ok! ok!, 
+testing query PLAIN-2670, ok! ok! missed!, query: Is Caramel Color Carcinogenic?
+testing query PLAIN-2680, ok! ok! ok!, 
+testing query PLAIN-2690, ok! ok! ok!, 
+testing query PLAIN-2700, ok! ok! ok!, 
+testing query PLAIN-2710, ok! ok! ok!, 
+testing query PLAIN-2720, ok! ok! ok!, 
+testing query PLAIN-2730, ok! ok! ok!, 
+testing query PLAIN-2740, ok! ok! ok!, 
+testing query PLAIN-2750, ok! ok! ok!, 
+testing query PLAIN-2760, missed! missed! missed!, query: Eating Healthy on a Budget
+testing query PLAIN-2770, ok! ok! ok!, 
+testing query PLAIN-2780, ok! ok! ok!, 
+testing query PLAIN-2790, ok! ok! ok!, 
+testing query PLAIN-2800, ok! ok! ok!, 
+testing query PLAIN-2810, ok! ok! ok!, 
+testing query PLAIN-2820, ok! ok! missed!, query: Preventing Strokes with Diet
+testing query PLAIN-2830, ok! ok! ok!, 
+testing query PLAIN-2840, missed! missed! missed!, query: Benefits of Fenugreek Seeds
+testing query PLAIN-2850, ok! ok! missed!, query: More Antibiotics In White Meat or Dark Meat?
+testing query PLAIN-2860, ok! ok! ok!, 
+testing query PLAIN-2870, ok! ok! missed!, query: Filled Full of Lead
+testing query PLAIN-2880, missed! missed! missed!, query: The Answer to the Pritikin Puzzle
+testing query PLAIN-2890, ok! ok! ok!, 
+testing query PLAIN-2900, ok! ok! missed!, query: Boosting Good Bacteria in the Colon Without Probiotics
+testing query PLAIN-2910, ok! ok! missed!, query: Optimal Phytosterol Dose
+testing query PLAIN-2920, ok! ok! missed!, query: Human Neurotransmitters in Plants
+testing query PLAIN-2930, ok! ok! ok!, 
+testing query PLAIN-2940, ok! ok! missed!, query: Dietary Treatment of Crohn's Disease
+testing query PLAIN-2950, missed! missed! missed!, query: Unsafe at Any Feed
+testing query PLAIN-2960, ok! ok! ok!, 
+testing query PLAIN-2970, ok! ok! ok!, 
+testing query PLAIN-2981, ok! ok! ok!, 
+testing query PLAIN-2991, ok! ok! missed!, query: Cholesterol and Lower Back Pain
+testing query PLAIN-3001, ok! ok! ok!, 
+testing query PLAIN-3014, missed! missed! missed!, query: Sometimes the Enzyme Myth Is True
+testing query PLAIN-3026, ok! ok! ok!, 
+testing query PLAIN-3037, missed! missed! missed!, query: Out of the Lab Onto the Track
+testing query PLAIN-3053, ok! ok! missed!, query: Dragon's Blood
+testing query PLAIN-3063, missed! missed! missed!, query: Better Than Goji Berries
+testing query PLAIN-3074, ok! ok! missed!, query: How to Help Prevent Abdominal Aortic Aneurysms
+testing query PLAIN-3085, ok! ok! ok!, 
+testing query PLAIN-3097, ok! ok! missed!, query: Amyloid and Apple Juice
+testing query PLAIN-3116, ok! ok! missed!, query: Dietary Guidelines: From Dairies to Berries
+testing query PLAIN-3131, ok! ok! ok!, 
+testing query PLAIN-3141, ok! ok! ok!, 
+testing query PLAIN-3151, ok! ok! ok!, 
+testing query PLAIN-3161, ok! ok! ok!, 
+testing query PLAIN-3171, ok! ok! ok!, 
+testing query PLAIN-3181, ok! ok! ok!, 
+testing query PLAIN-3191, ok! ok! ok!, 
+testing query PLAIN-3201, ok! ok! ok!, 
+testing query PLAIN-3211, missed! missed! missed!, query: Overdosing on Greens
+testing query PLAIN-3221, ok! ok! missed!, query: Dietary Theory of Alzheimer's
+testing query PLAIN-3231, ok! ok! ok!, 
+testing query PLAIN-3241, ok! ok! missed!, query: Apthous Ulcer Mystery Solved
+testing query PLAIN-3251, ok! ok! missed!, query: EPIC Study
+testing query PLAIN-3261, ok! ok! ok!, 
+testing query PLAIN-3271, ok! ok! ok!, 
+testing query PLAIN-3281, ok! ok! missed!, query: Aluminum in Vaccines vs. Food
+testing query PLAIN-3292, ok! ok! ok!, 
+testing query PLAIN-3302, ok! ok! ok!, 
+testing query PLAIN-3312, ok! ok! ok!, 
+testing query PLAIN-3322, ok! ok! ok!, 
+testing query PLAIN-3332, ok! ok! ok!, 
+testing query PLAIN-3342, ok! ok! missed!, query: Is Coconut Milk Good For You?
+testing query PLAIN-3352, ok! ok! missed!, query: Boosting Heart Nerve Control
+testing query PLAIN-3362, ok! ok! ok!, 
+testing query PLAIN-3372, ok! ok! missed!, query: The Healthiest Sweetener
+testing query PLAIN-3382, ok! ok! missed!, query: Are Artificial Colors Bad for You?
+testing query PLAIN-3392, ok! ok! missed!, query: Healthiest Airplane Beverage
+testing query PLAIN-3402, ok! ok! missed!, query: Antioxidant Content of 300 Foods
+testing query PLAIN-3412, ok! ok! ok!, 
+testing query PLAIN-3422, ok! ok! ok!, 
+testing query PLAIN-3432, ok! ok! ok!, 
+testing query PLAIN-3442, ok! ok! missed!, query: The Healthiest Vegetables
+testing query PLAIN-3452, ok! ok! ok!, 
+testing query PLAIN-3462, ok! ok! ok!, 
+testing query PLAIN-3472, ok! ok! ok!, 
+
+Metrics: (boolean model)
+accuracy: 0.16170109507540273
+f1: 0.11178731785409879
+fallout: 0.11150963383166199
+fb: 0.14610918510600054
+r-accuracy: 0.16481155583322796
+recall: 0.35671414182339073
+
+Metrics: (extended model)
+accuracy: 0.15692362259087425
+f1: 0.11060623100999034
+fallout: 0.11371478335642028
+fb: 0.1455396987594325
+r-accuracy: 0.15889145254470363
+recall: 0.36449314668779764
+
+Metrics: (lsi model)
+accuracy: 0.1840387479754587
+f1: 0.10780754398006615
+fallout: 0.004996113777142548
+fb: 0.11927993182162062
+r-accuracy: 0.18342523489582327
+recall: 0.14932019965806825
